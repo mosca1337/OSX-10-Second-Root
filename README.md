@@ -1,6 +1,6 @@
 # OSX-10-Second-Root
 
-Take full control of a OSX as root via command line.
+Take full control of OSX as root via command line.
 Here is a tutorial of this backdoor for OSX: http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/
 
 1. Boot into single user mode (Command – S).
