@@ -3,9 +3,14 @@
 Take full control of OSX as root via command line.
 Here is a tutorial of this backdoor for OSX: http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/
 
+## Root Shell
 1. Boot into single user mode (Command – S).
 2. At the command prompt, plug in ducky.
 3. Catch the shell remotely with `nc -l -p 1337`
+
+## User Shell
+1. While OSX is running with GUI, plug in ducky.
+2. Catch the shell remotely with `nc -l -p 1337`
 
 [![](http://patrickmosca.com/wp-content/uploads/2013/04/root.png)](http://patrickmosca.com/wp-content/uploads/2013/04/root.png)
 
